@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab13MusicVideo</string>
+    <string name="album_cover">Album Cover</string>
+    <string name="student_info">Лившиц Леонид, БПИ 235</string>
+    <string name="play_pause">Play or Pause</string>
+    <string name="previous_track">Previous</string>
+    <string name="next_track">Next</string>
+</resources>

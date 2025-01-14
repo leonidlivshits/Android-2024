@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab11CustomNotification</string>
+    <string name="author">Лившиц Леонид БПИ 235</string>
+    <string name="notification_message">Это кастомное уведомление с вашим звуком</string>
+    <string name="button_text">Отправить уведомление</string>
+</resources>
+

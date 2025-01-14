@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lab10Dialog</string>
+    <string name="hello_world">Лившиц Леонид БПИ 235</string>
+    <string name="edit_text_hint">Введите текст (минимум 3 символа)</string>
+    <string name="button_text">Проверить ввод</string>
+    <string name="dialog_success_title">Успешно!</string>
+    <string name="dialog_success_message">Ввод корректен!</string>
+    <string name="dialog_error_title">Ошибка!</string>
+    <string name="dialog_error_message">Некорректный ввод! Введите минимум 3 символа.</string>
+    <string name="dialog_button_ok">ОК</string>
+    <string name="input_hint_message">* Ввод должен содержать минимум 3 символа</string>
+</resources>
