@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab4 CustomTheme</string>
+        <string name="change_color">Изменить цвет</string>
+        <string name="change">Изменить</string>
+        <string name="hello_text">я с ракетой</string>
+        <string name="author">Лившиц Леонид, БПИ 235</string>
+</resources>
+

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.Lab3TwoActivities" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/purple_500</item>
+    </style>
+</resources>

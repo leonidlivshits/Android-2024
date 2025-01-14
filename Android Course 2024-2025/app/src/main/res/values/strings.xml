@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="student_info">Лившиц Леонид Игоревич\nБПИ 235</string>
+    <string name="image_description">Мое фото с ракетой</string>
+</resources>

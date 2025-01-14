@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Lab3TwoActivities</string>
+    <string name="activity_1">Активность 1</string>
+    <string name="activity_2">Активность 2</string>
+    <string name="input_hint">Введите текст...</string>
+    <string name="next_button">Далее</string>
+    <string name="return_button">Назад</string>
+    <string name="received_text">Получено: %s</string>
+    <string name="fio">Лившиц Леонид Игоревич</string>
+    <string name="group">БПИ 235</string>
+    <string name="inputText">Введите текст</string>
+    <string name="sentText">Отправить</string>
+    <string name="next">Далее</string>
+    <string name="onePage">Страница 1</string>
+    <string name="twoPage">Страница 2</string>
+    <string name="userTextPrompt">Введенный текст:</string>
+    <string name="back">Назад</string>
+</resources>
