@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab14Photo</string>
+    <string name="author">Лившиц Леонид, БПИ 235</string>
+    <string name="photo_button_text">Сделать фото</string>
+</resources>
