@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab15 SQLite</string>
+    <string name="input_hint">Введите текст</string>
+    <string name="add_button">Добавить</string>
+</resources>

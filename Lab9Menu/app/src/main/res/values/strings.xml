@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab9Menu</string>
+    <string name="author">Лившиц Леонид, БПИ 235</string>
+    <string name="red">Красный текст</string>
+    <string name="blue">Синий текст</string>
+    <string name="green">Зеленый текст</string>
+</resources>
